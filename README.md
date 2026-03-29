@@ -65,20 +65,5 @@ src/
 
 ## 🚀 Getting Started
 
-To run this project locally:
+ **Live Demo:** https://sandcup.vercel.app/
 
-1. **Clone the repository.**
-2. **Install dependencies:**
-   ```bash
-   npm install
-   ```
-3. **Start the development server:**
-   ```bash
-   npm run dev
-   ```
-4. **Open your browser:** Visit `http://localhost:5173/`
-
-5. **Live Demo:** https://sandcup.vercel.app/
-
-## 💡 Notes on Animations
-Most scroll-based animations are powered by `framer-motion`'s `useInView` or `whileInView` APIs. Global custom keyframes (like the SVG stroke effect in the hero heading and the shining button sweep) are defined at the bottom of `src/index.css`.
