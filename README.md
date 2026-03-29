@@ -65,5 +65,5 @@ src/
 
 ## 🚀 Getting Started
 
- **Live Demo:** [https://sandcup.vercel.app/](https://sandcup-module.vercel.app/)
+ **Live Demo:** https://sandcup-module.vercel.app/
 
